@@ -32,7 +32,7 @@ Log.logDB.error("Error message :(");
 &nbsp;&nbsp;![alt text](./images/logs.png?raw=true) <br/>
 &nbsp;&nbsp;- `logDate` directories with the date where the logs were created <br/>
 &nbsp;&nbsp;![alt text](./images/logDay.png?raw=true) <br/>
-&nbsp;&nbsp;- `logTime` logs files<br/>
+&nbsp;&nbsp;- `[time]log` logs files<br/>
 &nbsp;&nbsp;![alt text](./images/newLogs.png?raw=true)<br/>
 &nbsp;&nbsp;- Output of logs<br/>
 &nbsp;&nbsp;![alt text](./images/log.png?raw=true)<br/>
